@@ -4,8 +4,9 @@ C++ program to view list of processes (by process handle name) and delete a proc
 This program was created for the purpose of deleting a running process if Taskmanager is not responding <br />
 or cannot be opened. <br />
 The program will terminate any process specified by the user (if the process is running). <br />
+For example, if the user specifies "chrome.exe" all processes with that handle name will be terminated.<br />
 <br />
-The program includes a user interface (in the form of text). <br />
+The program also includes a user interface (in the form of text). <br />
 <br />
 The program has so far been tested (compiled/run) on windows 7 64bit <br />
 and was originally compiled in Dev-C++ 5.11 <br />
