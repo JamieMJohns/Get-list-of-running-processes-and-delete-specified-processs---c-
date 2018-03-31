@@ -8,7 +8,7 @@ The program will terminate any process specified by the user (if the process is 
 The program includes a user interface (in the form of text). <br />
 <br />
 The program has so far been tested (compiled/run) on windows 7 64bit <br />
-and was originally compiled in Dec-C++ 5.11 <br />
+and was originally compiled in Dev-C++ 5.11 <br />
 <br />
 The code is subject to improvement and optimization. <br />
 <br />
