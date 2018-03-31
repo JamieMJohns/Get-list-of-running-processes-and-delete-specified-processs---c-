@@ -25,4 +25,4 @@ A list of tasks accomplished in this code include;<br />
 =>applying for-loop in a single line (not done everywhere in the code)<br />
 =>applying if-loop in a single line (not done everywhere in the code) <br />
 =>apply argument for two for-loops in a single line (not done everywhere in the code)<br />
-=>change color of text in exe <br />
+=>change color of text in program (after compiling and running as windows .exe) <br />
