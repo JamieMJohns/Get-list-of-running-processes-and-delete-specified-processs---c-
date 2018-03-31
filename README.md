@@ -1,7 +1,7 @@
 # Get-list-of-running-processes-and-delete-specified-processs---c-
 C++ program to view list of processes (by process handle name) and delete a proccess specified by user <br />
 <br />
-This program was created for the purposes of deleting a running process if Taskmanager is not responding <br />
+This program was created for the purpose of deleting a running process if Taskmanager is not responding <br />
 or cannot be opened. <br />
 The program will terminate any process specified by the user (if the process is running). <br />
 <br />
