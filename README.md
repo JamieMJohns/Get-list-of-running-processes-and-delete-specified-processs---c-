@@ -20,7 +20,7 @@ A list of tasks accomplished in this code include;<br />
 =>storing integers as array (using vector) <br />
 =>storing strings as list (also using vector) <br />
 =>sorting vector of strings in alphabetic order <br />
-=>from a vector of strings, create a new vector which is a list unique strings from the first vector <br />
+=>from a vector of strings, create a new vector which is a list of unique strings from the first vector <br />
 =>determine if two strings match [using the strcmp() function] <br />
 =>applying for-loop in a single line (not done everywhere in the code)<br />
 =>applying if-loop in a single line (not done everywhere in the code) <br />
