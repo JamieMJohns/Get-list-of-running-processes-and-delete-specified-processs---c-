@@ -11,6 +11,8 @@ The program also includes a user interface (in the form of text). <br />
 The program has so far been tested (compiled/run) on windows 7 64bit <br />
 and was originally compiled in Dev-C++ 5.11 <br />
 <br />
+Note: to compile the code, you made need to run your compiler with adminstrator privileges (at least for Windows) <br />
+<br />
 The code is subject to improvement and optimization. <br />
 <br />
 <br />
