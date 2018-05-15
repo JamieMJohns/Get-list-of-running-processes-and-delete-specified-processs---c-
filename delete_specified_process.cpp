@@ -21,16 +21,16 @@ int main( ){ // main program @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 	//system("color C"); //change program text to bright red coloured 'C'
 	system("color A"); //change program text to bright green coloured 'A'
 	// INTRODUCTION STRING #############################################################################################
-	cout<<"################################################################################"; // string added for ui purposes
-	cout<<"######################### Task Process Terminator ##############################"; // string added for ui purposes
-	cout<<"################################################################################"; // string added for ui purposes
+	cout<<"################################################################################"<<endl; // string added for ui purposes
+	cout<<"######################### Task Process Terminator ##############################"<<endl; // string added for ui purposes
+	cout<<"################################################################################"<<endl; // string added for ui purposes
 	cout<<""<<endl;
-	cout<<"                       Program created by                                       "; // string added for ui purposes
-	cout<<"                           Jamie M Johns                                        "; // string added for UI purposes
-	cout<<"                               2018                                             "; // string added for UI purposes
+	cout<<"                       Program created by                                       "<<endl; // string added for ui purposes
+	cout<<"                           Jamie M Johns                                        "<<endl; // string added for UI purposes
+	cout<<"                               2018                                             "<<endl; // string added for UI purposes
 	cout<<"                     Written in Dev-C++ 5.11                                    "<<endl; // string added for UI purposes
 	cout<<"Description:"<<endl; // string added for UI purposes
-	cout<<"  This program will list processes currently running on your computer and then  "; // string added for UI purposes
+	cout<<"  This program will list processes currently running on your computer and then  "<<endl; // string added for UI purposes
 	cout<<"  by entering a process handle name (i.e-'chrome.exe'); the program will kill "<<endl; // string added for UI purposes
 	cout<<"  all processes of the same handle name."<<endl; // string added for UI purposes
 	cout<<""<<endl; // string added for UI purposes
@@ -116,7 +116,7 @@ int main( ){ // main program @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 		cout<<""<<endl; // string added for UI purposes
 		cout<<""<<endl; // string added for UI purposes
 		cout<<"<PRESS ENTER TO GET UPDATED LIST OF RUNNING PROCESSES (the program will re-run)>."<<endl; // string added for UI purposes
-		cout<<"Otherwise, exit the program if you are finished."; // string added for UI purposes
+		cout<<"Otherwise, exit the program if you are finished."<<endl; // string added for UI purposes
 		system("pause"); // wait for user response
 	}; // end of whileloop (goes back to beginning unless user exits the program
 	return 0; //used when compiling in c++; prints zero if program compiled/ran with no errors
